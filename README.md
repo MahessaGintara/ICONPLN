@@ -1,7 +1,7 @@
 
 # Post Test
 
-Trainin Java Sprin Boot dan Oracle
+Training Java Sprin Boot dan Oracle
 
 
 
