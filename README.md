@@ -9,7 +9,7 @@ Training Java Sprin Boot dan Oracle
 ## Documentation
 This app created with 
 - Java 11
-- Maven 3.10
+- Maven 3.8.6
 - Oracle Database 
 
 ### Library used
